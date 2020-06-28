@@ -1,0 +1,15 @@
+<header>
+<div id="img_header">
+		<img src="img/bouteille.png"/>
+		<img src="img/bouteille.png"/>
+	</div>
+	<nav id="menu">
+	<ol>
+		<li><a href="index.jsp">Accueil</a></li>
+		<li><a href="ListerServlet">Liste des bouteilles</a></li>
+		<li><a href="AjouterServlet">Ajouter une bouteille</a></li>
+		<li><a href="">Qui sommes-nous</a></li>
+	</ol>
+	</nav>
+
+</header>
